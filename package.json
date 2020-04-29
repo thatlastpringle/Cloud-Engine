@@ -1,0 +1,20 @@
+{
+  "name": "file-uploads-01",
+  "version": "0.0.1",
+  "description": "another test app",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "formidable": "^1.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "babel-preset-stage-2": "latest"
+  }
+}

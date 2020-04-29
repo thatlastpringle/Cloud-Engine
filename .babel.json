@@ -1,0 +1,1100 @@
+{
+  "{\"filename\":\"/app/server.js\",\"env\":{},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/app\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.24.1": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/app/server.js",
+      "filenameRelative": "/app/server.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "server.js",
+      "sourceFileName": "server.js",
+      "sourceRoot": "/app",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/app",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "server"
+    },
+    "ignored": false,
+    "code": "console.log('Hello World');\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZlci5qcyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiQUFBQUEsUUFBUUMsR0FBUixDQUFZLGFBQVoiLCJmaWxlIjoic2VydmVyLmpzIiwic291cmNlUm9vdCI6Ii9hcHAiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zb2xlLmxvZygnSGVsbG8gV29ybGQnKSJdfQ==",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "server.js"
+      ],
+      "names": [
+        "console",
+        "log"
+      ],
+      "mappings": "AAAAA,QAAQC,GAAR,CAAY,aAAZ",
+      "file": "server.js",
+      "sourceRoot": "/app",
+      "sourcesContent": [
+        "console.log('Hello World')"
+      ]
+    },
+    "mtime": 1492772888479
+  },
+  "{\"filename\":\"/app/server.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false,\"spec\":false}],[[],null],[[],null],[[],{\"spec\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"async\":false,\"asyncGenerators\":false}],[[],null],[[],null],[[],null],[[],null]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/app\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.24.1": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/app/server.js",
+      "filenameRelative": "/app/server.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false,
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "async": false,
+            "asyncGenerators": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "server.js",
+      "sourceFileName": "server.js",
+      "sourceRoot": "/app",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/app",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "server"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nconsole.log('Hello World');\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZlci5qcyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBQSxRQUFRQyxHQUFSLENBQVksYUFBWiIsImZpbGUiOiJzZXJ2ZXIuanMiLCJzb3VyY2VSb290IjoiL2FwcCIsInNvdXJjZXNDb250ZW50IjpbImNvbnNvbGUubG9nKCdIZWxsbyBXb3JsZCcpIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "server.js"
+      ],
+      "names": [
+        "console",
+        "log"
+      ],
+      "mappings": ";;AAAAA,QAAQC,GAAR,CAAY,aAAZ",
+      "file": "server.js",
+      "sourceRoot": "/app",
+      "sourcesContent": [
+        "console.log('Hello World')"
+      ]
+    },
+    "mtime": 1492772888479
+  },
+  "{\"filename\":\"/app/server.js\",\"env\":{},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false,\"spec\":false}],[[],null],[[],null],[[],{\"spec\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"async\":false,\"asyncGenerators\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/app\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.24.1": {
+    "metadata": {
+      "usedHelpers": [],
+      "marked": [],
+      "modules": {
+        "imports": [],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/app/server.js",
+      "filenameRelative": "/app/server.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false,
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "async": false,
+            "asyncGenerators": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "server.js",
+      "sourceFileName": "server.js",
+      "sourceRoot": "/app",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/app",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "server"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nconsole.log('Hello World');\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZlci5qcyJdLCJuYW1lcyI6WyJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBQSxRQUFRQyxHQUFSLENBQVksYUFBWiIsImZpbGUiOiJzZXJ2ZXIuanMiLCJzb3VyY2VSb290IjoiL2FwcCIsInNvdXJjZXNDb250ZW50IjpbImNvbnNvbGUubG9nKCdIZWxsbyBXb3JsZCcpIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "server.js"
+      ],
+      "names": [
+        "console",
+        "log"
+      ],
+      "mappings": ";;AAAAA,QAAQC,GAAR,CAAY,aAAZ",
+      "file": "server.js",
+      "sourceRoot": "/app",
+      "sourcesContent": [
+        "console.log('Hello World')"
+      ]
+    },
+    "mtime": 1492772888479
+  },
+  "{\"filename\":\"/app/server.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false,\"spec\":false}],[[],null],[[],null],[[],{\"spec\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"async\":false,\"asyncGenerators\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/app\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.24.1": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "fs",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "fs"
+              }
+            ]
+          },
+          {
+            "source": "express",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "express"
+              }
+            ]
+          },
+          {
+            "source": "morgan",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "morgan"
+              }
+            ]
+          },
+          {
+            "source": "formidable",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "formidable"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/app/server.js",
+      "filenameRelative": "/app/server.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false,
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "async": false,
+            "asyncGenerators": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "server.js",
+      "sourceFileName": "server.js",
+      "sourceRoot": "/app",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/app",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "server"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _fs = require('fs');\n\nvar _fs2 = _interopRequireDefault(_fs);\n\nvar _express = require('express');\n\nvar _express2 = _interopRequireDefault(_express);\n\nvar _morgan = require('morgan');\n\nvar _morgan2 = _interopRequireDefault(_morgan);\n\nvar _formidable = require('formidable');\n\nvar _formidable2 = _interopRequireDefault(_formidable);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar server = (0, _express2.default)(); // links:\n//\n//  http://expressjs.com/en/resources/middleware.html\n//  http://expressjs.com/en/resources/middleware/body-parser.html\n//\n//  https://coligo.io/building-ajax-file-uploader-with-node/\n//  https://github.com/felixge/node-formidable\n//\n//  https://scotch.io/tutorials/express-file-uploads-with-multer\n//  https://github.com/expressjs/multer\n\nserver.use((0, _morgan2.default)('tiny'));\n\nserver.use(_express2.default.static(_path2.default.join(__dirname, 'uploads')));\n\nserver.get('/', function (req, res) {\n  var html = '<!DOCTYPE html><html><head></head><body><h2>/uploads</h2><ul>';\n  _fs2.default.readdir(_path2.default.join(__dirname, 'uploads'), function (err, files) {\n    files.forEach(function (file) {\n      html += '<li><a href=\"' + file + '\">' + file + '</li>';\n      console.log(file);\n    });\n    html += '<ul></body></html>';\n    res.send(html);\n  });\n});\n\nserver.post('/upload', function (req, res) {\n  var form = new _formidable2.default.IncomingForm();\n  form.multiples = true;\n  form.uploadDir = _path2.default.join(__dirname, 'uploads');\n  form.on('file', function (field, file) {\n    _fs2.default.rename(file.path, _path2.default.join(form.uploadDir, file.name));\n  });\n  form.on('error', function (err) {\n    console.log('An error has occured: \\n' + err);\n  });\n  form.on('end', function () {\n    res.end('success');\n  });\n  form.parse(req);\n});\n\nserver.listen(3000, function () {\n  console.log('server listen on port 3000');\n});\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZlci5qcyJdLCJuYW1lcyI6WyJzZXJ2ZXIiLCJ1c2UiLCJzdGF0aWMiLCJqb2luIiwiX19kaXJuYW1lIiwiZ2V0IiwicmVxIiwicmVzIiwiaHRtbCIsInJlYWRkaXIiLCJlcnIiLCJmaWxlcyIsImZvckVhY2giLCJmaWxlIiwiY29uc29sZSIsImxvZyIsInNlbmQiLCJwb3N0IiwiZm9ybSIsIkluY29taW5nRm9ybSIsIm11bHRpcGxlcyIsInVwbG9hZERpciIsIm9uIiwiZmllbGQiLCJyZW5hbWUiLCJwYXRoIiwibmFtZSIsImVuZCIsInBhcnNlIiwibGlzdGVuIl0sIm1hcHBpbmdzIjoiOztBQVdBOzs7O0FBQ0E7Ozs7QUFFQTs7OztBQUNBOzs7O0FBQ0E7Ozs7OztBQUVBLElBQU1BLFNBQVMsd0JBQWYsQyxDQWxCQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQTs7QUFXQUEsT0FBT0MsR0FBUCxDQUFXLHNCQUFPLE1BQVAsQ0FBWDs7QUFFQUQsT0FBT0MsR0FBUCxDQUFXLGtCQUFRQyxNQUFSLENBQWUsZUFBS0MsSUFBTCxDQUFVQyxTQUFWLEVBQXFCLFNBQXJCLENBQWYsQ0FBWDs7QUFFQUosT0FBT0ssR0FBUCxDQUFXLEdBQVgsRUFBZ0IsVUFBQ0MsR0FBRCxFQUFNQyxHQUFOLEVBQWM7QUFDNUIsTUFBSUMsT0FBTywrREFBWDtBQUNBLGVBQUdDLE9BQUgsQ0FBVyxlQUFLTixJQUFMLENBQVVDLFNBQVYsRUFBcUIsU0FBckIsQ0FBWCxFQUE0QyxVQUFDTSxHQUFELEVBQU1DLEtBQU4sRUFBZ0I7QUFDMURBLFVBQU1DLE9BQU4sQ0FBYyxnQkFBUTtBQUNwQkosZ0NBQXdCSyxJQUF4QixVQUFpQ0EsSUFBakM7QUFDQUMsY0FBUUMsR0FBUixDQUFZRixJQUFaO0FBQ0QsS0FIRDtBQUlBTCxZQUFRLG9CQUFSO0FBQ0FELFFBQUlTLElBQUosQ0FBU1IsSUFBVDtBQUNELEdBUEQ7QUFRRCxDQVZEOztBQVlBUixPQUFPaUIsSUFBUCxDQUFZLFNBQVosRUFBdUIsVUFBQ1gsR0FBRCxFQUFNQyxHQUFOLEVBQWM7QUFDbkMsTUFBTVcsT0FBTyxJQUFJLHFCQUFXQyxZQUFmLEVBQWI7QUFDQUQsT0FBS0UsU0FBTCxHQUFpQixJQUFqQjtBQUNBRixPQUFLRyxTQUFMLEdBQWlCLGVBQUtsQixJQUFMLENBQVVDLFNBQVYsRUFBcUIsU0FBckIsQ0FBakI7QUFDQWMsT0FBS0ksRUFBTCxDQUFRLE1BQVIsRUFBZ0IsVUFBU0MsS0FBVCxFQUFnQlYsSUFBaEIsRUFBc0I7QUFDcEMsaUJBQUdXLE1BQUgsQ0FBVVgsS0FBS1ksSUFBZixFQUFxQixlQUFLdEIsSUFBTCxDQUFVZSxLQUFLRyxTQUFmLEVBQTBCUixLQUFLYSxJQUEvQixDQUFyQjtBQUNELEdBRkQ7QUFHQVIsT0FBS0ksRUFBTCxDQUFRLE9BQVIsRUFBaUIsVUFBU1osR0FBVCxFQUFjO0FBQzdCSSxZQUFRQyxHQUFSLENBQVksNkJBQTZCTCxHQUF6QztBQUNELEdBRkQ7QUFHQVEsT0FBS0ksRUFBTCxDQUFRLEtBQVIsRUFBZSxZQUFXO0FBQ3hCZixRQUFJb0IsR0FBSixDQUFRLFNBQVI7QUFDRCxHQUZEO0FBR0FULE9BQUtVLEtBQUwsQ0FBV3RCLEdBQVg7QUFDRCxDQWREOztBQWdCQU4sT0FBTzZCLE1BQVAsQ0FBYyxJQUFkLEVBQW9CLFlBQU07QUFDeEJmLFVBQVFDLEdBQVIsQ0FBWSw0QkFBWjtBQUNELENBRkQiLCJmaWxlIjoic2VydmVyLmpzIiwic291cmNlUm9vdCI6Ii9hcHAiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBsaW5rczpcbi8vXG4vLyAgaHR0cDovL2V4cHJlc3Nqcy5jb20vZW4vcmVzb3VyY2VzL21pZGRsZXdhcmUuaHRtbFxuLy8gIGh0dHA6Ly9leHByZXNzanMuY29tL2VuL3Jlc291cmNlcy9taWRkbGV3YXJlL2JvZHktcGFyc2VyLmh0bWxcbi8vXG4vLyAgaHR0cHM6Ly9jb2xpZ28uaW8vYnVpbGRpbmctYWpheC1maWxlLXVwbG9hZGVyLXdpdGgtbm9kZS9cbi8vICBodHRwczovL2dpdGh1Yi5jb20vZmVsaXhnZS9ub2RlLWZvcm1pZGFibGVcbi8vXG4vLyAgaHR0cHM6Ly9zY290Y2guaW8vdHV0b3JpYWxzL2V4cHJlc3MtZmlsZS11cGxvYWRzLXdpdGgtbXVsdGVyXG4vLyAgaHR0cHM6Ly9naXRodWIuY29tL2V4cHJlc3Nqcy9tdWx0ZXJcblxuaW1wb3J0IHBhdGggZnJvbSAncGF0aCdcbmltcG9ydCBmcyBmcm9tICdmcydcblxuaW1wb3J0IGV4cHJlc3MgZnJvbSAnZXhwcmVzcydcbmltcG9ydCBtb3JnYW4gZnJvbSAnbW9yZ2FuJ1xuaW1wb3J0IGZvcm1pZGFibGUgZnJvbSAnZm9ybWlkYWJsZSdcblxuY29uc3Qgc2VydmVyID0gZXhwcmVzcygpXG5cbnNlcnZlci51c2UobW9yZ2FuKCd0aW55JykpXG5cbnNlcnZlci51c2UoZXhwcmVzcy5zdGF0aWMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3VwbG9hZHMnKSkpXG5cbnNlcnZlci5nZXQoJy8nLCAocmVxLCByZXMpID0+IHtcbiAgbGV0IGh0bWwgPSAnPCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PjxoMj4vdXBsb2FkczwvaDI+PHVsPidcbiAgZnMucmVhZGRpcihwYXRoLmpvaW4oX19kaXJuYW1lLCAndXBsb2FkcycpLCAoZXJyLCBmaWxlcykgPT4ge1xuICAgIGZpbGVzLmZvckVhY2goZmlsZSA9PiB7XG4gICAgICBodG1sICs9IGA8bGk+PGEgaHJlZj1cIiR7ZmlsZX1cIj4ke2ZpbGV9PC9saT5gXG4gICAgICBjb25zb2xlLmxvZyhmaWxlKVxuICAgIH0pXG4gICAgaHRtbCArPSAnPHVsPjwvYm9keT48L2h0bWw+J1xuICAgIHJlcy5zZW5kKGh0bWwpXG4gIH0pXG59KVxuXG5zZXJ2ZXIucG9zdCgnL3VwbG9hZCcsIChyZXEsIHJlcykgPT4ge1xuICBjb25zdCBmb3JtID0gbmV3IGZvcm1pZGFibGUuSW5jb21pbmdGb3JtKClcbiAgZm9ybS5tdWx0aXBsZXMgPSB0cnVlXG4gIGZvcm0udXBsb2FkRGlyID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3VwbG9hZHMnKVxuICBmb3JtLm9uKCdmaWxlJywgZnVuY3Rpb24oZmllbGQsIGZpbGUpIHtcbiAgICBmcy5yZW5hbWUoZmlsZS5wYXRoLCBwYXRoLmpvaW4oZm9ybS51cGxvYWREaXIsIGZpbGUubmFtZSkpXG4gIH0pXG4gIGZvcm0ub24oJ2Vycm9yJywgZnVuY3Rpb24oZXJyKSB7XG4gICAgY29uc29sZS5sb2coJ0FuIGVycm9yIGhhcyBvY2N1cmVkOiBcXG4nICsgZXJyKVxuICB9KVxuICBmb3JtLm9uKCdlbmQnLCBmdW5jdGlvbigpIHtcbiAgICByZXMuZW5kKCdzdWNjZXNzJylcbiAgfSlcbiAgZm9ybS5wYXJzZShyZXEpXG59KVxuXG5zZXJ2ZXIubGlzdGVuKDMwMDAsICgpID0+IHtcbiAgY29uc29sZS5sb2coJ3NlcnZlciBsaXN0ZW4gb24gcG9ydCAzMDAwJylcbn0pIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "server.js"
+      ],
+      "names": [
+        "server",
+        "use",
+        "static",
+        "join",
+        "__dirname",
+        "get",
+        "req",
+        "res",
+        "html",
+        "readdir",
+        "err",
+        "files",
+        "forEach",
+        "file",
+        "console",
+        "log",
+        "send",
+        "post",
+        "form",
+        "IncomingForm",
+        "multiples",
+        "uploadDir",
+        "on",
+        "field",
+        "rename",
+        "path",
+        "name",
+        "end",
+        "parse",
+        "listen"
+      ],
+      "mappings": ";;AAWA;;;;AACA;;;;AAEA;;;;AACA;;;;AACA;;;;;;AAEA,IAAMA,SAAS,wBAAf,C,CAlBA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;;AAWAA,OAAOC,GAAP,CAAW,sBAAO,MAAP,CAAX;;AAEAD,OAAOC,GAAP,CAAW,kBAAQC,MAAR,CAAe,eAAKC,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAf,CAAX;;AAEAJ,OAAOK,GAAP,CAAW,GAAX,EAAgB,UAACC,GAAD,EAAMC,GAAN,EAAc;AAC5B,MAAIC,OAAO,+DAAX;AACA,eAAGC,OAAH,CAAW,eAAKN,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAX,EAA4C,UAACM,GAAD,EAAMC,KAAN,EAAgB;AAC1DA,UAAMC,OAAN,CAAc,gBAAQ;AACpBJ,gCAAwBK,IAAxB,UAAiCA,IAAjC;AACAC,cAAQC,GAAR,CAAYF,IAAZ;AACD,KAHD;AAIAL,YAAQ,oBAAR;AACAD,QAAIS,IAAJ,CAASR,IAAT;AACD,GAPD;AAQD,CAVD;;AAYAR,OAAOiB,IAAP,CAAY,SAAZ,EAAuB,UAACX,GAAD,EAAMC,GAAN,EAAc;AACnC,MAAMW,OAAO,IAAI,qBAAWC,YAAf,EAAb;AACAD,OAAKE,SAAL,GAAiB,IAAjB;AACAF,OAAKG,SAAL,GAAiB,eAAKlB,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAjB;AACAc,OAAKI,EAAL,CAAQ,MAAR,EAAgB,UAASC,KAAT,EAAgBV,IAAhB,EAAsB;AACpC,iBAAGW,MAAH,CAAUX,KAAKY,IAAf,EAAqB,eAAKtB,IAAL,CAAUe,KAAKG,SAAf,EAA0BR,KAAKa,IAA/B,CAArB;AACD,GAFD;AAGAR,OAAKI,EAAL,CAAQ,OAAR,EAAiB,UAASZ,GAAT,EAAc;AAC7BI,YAAQC,GAAR,CAAY,6BAA6BL,GAAzC;AACD,GAFD;AAGAQ,OAAKI,EAAL,CAAQ,KAAR,EAAe,YAAW;AACxBf,QAAIoB,GAAJ,CAAQ,SAAR;AACD,GAFD;AAGAT,OAAKU,KAAL,CAAWtB,GAAX;AACD,CAdD;;AAgBAN,OAAO6B,MAAP,CAAc,IAAd,EAAoB,YAAM;AACxBf,UAAQC,GAAR,CAAY,4BAAZ;AACD,CAFD",
+      "file": "server.js",
+      "sourceRoot": "/app",
+      "sourcesContent": [
+        "// links:\n//\n//  http://expressjs.com/en/resources/middleware.html\n//  http://expressjs.com/en/resources/middleware/body-parser.html\n//\n//  https://coligo.io/building-ajax-file-uploader-with-node/\n//  https://github.com/felixge/node-formidable\n//\n//  https://scotch.io/tutorials/express-file-uploads-with-multer\n//  https://github.com/expressjs/multer\n\nimport path from 'path'\nimport fs from 'fs'\n\nimport express from 'express'\nimport morgan from 'morgan'\nimport formidable from 'formidable'\n\nconst server = express()\n\nserver.use(morgan('tiny'))\n\nserver.use(express.static(path.join(__dirname, 'uploads')))\n\nserver.get('/', (req, res) => {\n  let html = '<!DOCTYPE html><html><head></head><body><h2>/uploads</h2><ul>'\n  fs.readdir(path.join(__dirname, 'uploads'), (err, files) => {\n    files.forEach(file => {\n      html += `<li><a href=\"${file}\">${file}</li>`\n      console.log(file)\n    })\n    html += '<ul></body></html>'\n    res.send(html)\n  })\n})\n\nserver.post('/upload', (req, res) => {\n  const form = new formidable.IncomingForm()\n  form.multiples = true\n  form.uploadDir = path.join(__dirname, 'uploads')\n  form.on('file', function(field, file) {\n    fs.rename(file.path, path.join(form.uploadDir, file.name))\n  })\n  form.on('error', function(err) {\n    console.log('An error has occured: \\n' + err)\n  })\n  form.on('end', function() {\n    res.end('success')\n  })\n  form.parse(req)\n})\n\nserver.listen(3000, () => {\n  console.log('server listen on port 3000')\n})"
+      ]
+    },
+    "mtime": 1500824494060
+  },
+  "{\"filename\":\"/app/server.js\",\"env\":{\"development\":{\"plugins\":[]}},\"retainLines\":false,\"highlightCode\":true,\"suppressDeprecationMessages\":false,\"presets\":[],\"plugins\":[[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],null],[[],{\"loose\":false,\"spec\":false}],[[],null],[[],null],[[],{\"spec\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"loose\":false}],[[],null],[[],null],[[],null],[[],{\"loose\":false}],[[],null],[[],{\"loose\":false}],[[],null],[[],null],[[],{\"loose\":false}],[[],{\"async\":false,\"asyncGenerators\":false}]],\"ignore\":[],\"code\":true,\"metadata\":true,\"ast\":true,\"comments\":true,\"compact\":\"auto\",\"minified\":false,\"sourceRoot\":\"/app\",\"babelrc\":true,\"sourceType\":\"module\",\"moduleIds\":false,\"passPerPreset\":false,\"parserOpts\":false,\"generatorOpts\":false}:6.26.0": {
+    "metadata": {
+      "usedHelpers": [
+        "interopRequireDefault"
+      ],
+      "marked": [],
+      "modules": {
+        "imports": [
+          {
+            "source": "path",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "path"
+              }
+            ]
+          },
+          {
+            "source": "fs",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "fs"
+              }
+            ]
+          },
+          {
+            "source": "express",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "express"
+              }
+            ]
+          },
+          {
+            "source": "morgan",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "morgan"
+              }
+            ]
+          },
+          {
+            "source": "formidable",
+            "imported": [
+              "default"
+            ],
+            "specifiers": [
+              {
+                "kind": "named",
+                "imported": "default",
+                "local": "formidable"
+              }
+            ]
+          }
+        ],
+        "exports": {
+          "exported": [],
+          "specifiers": []
+        }
+      }
+    },
+    "options": {
+      "filename": "/app/server.js",
+      "filenameRelative": "/app/server.js",
+      "env": {},
+      "retainLines": false,
+      "highlightCode": true,
+      "suppressDeprecationMessages": false,
+      "presets": [],
+      "plugins": [
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false,
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "spec": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          null
+        ],
+        [
+          [],
+          {
+            "loose": false
+          }
+        ],
+        [
+          [],
+          {
+            "async": false,
+            "asyncGenerators": false
+          }
+        ]
+      ],
+      "ignore": [],
+      "code": true,
+      "metadata": true,
+      "ast": false,
+      "comments": true,
+      "compact": "auto",
+      "minified": false,
+      "sourceMaps": "both",
+      "sourceMapTarget": "server.js",
+      "sourceFileName": "server.js",
+      "sourceRoot": "/app",
+      "babelrc": false,
+      "sourceType": "module",
+      "moduleRoot": "/app",
+      "moduleIds": false,
+      "passPerPreset": false,
+      "parserOpts": false,
+      "generatorOpts": false,
+      "basename": "server"
+    },
+    "ignored": false,
+    "code": "'use strict';\n\nvar _path = require('path');\n\nvar _path2 = _interopRequireDefault(_path);\n\nvar _fs = require('fs');\n\nvar _fs2 = _interopRequireDefault(_fs);\n\nvar _express = require('express');\n\nvar _express2 = _interopRequireDefault(_express);\n\nvar _morgan = require('morgan');\n\nvar _morgan2 = _interopRequireDefault(_morgan);\n\nvar _formidable = require('formidable');\n\nvar _formidable2 = _interopRequireDefault(_formidable);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar server = (0, _express2.default)();\n\nserver.use((0, _morgan2.default)('tiny'));\n\nserver.use(_express2.default.static(_path2.default.join(__dirname, 'uploads')));\n\nserver.get('/', function (req, res) {\n  var html = '<!DOCTYPE html><html><head></head><body><h2>/uploads</h2><ul>';\n  _fs2.default.readdir(_path2.default.join(__dirname, 'uploads'), function (err, files) {\n    files.forEach(function (file) {\n      html += '<li><a href=\"' + file + '\">' + file + '</li>';\n      console.log(file);\n    });\n    html += '<ul></body></html>';\n    res.send(html);\n  });\n});\n\nserver.post('/upload', function (req, res) {\n  var form = new _formidable2.default.IncomingForm();\n  form.multiples = true;\n  form.uploadDir = _path2.default.join(__dirname, 'uploads');\n  form.on('file', function (field, file) {\n    _fs2.default.rename(file.path, _path2.default.join(form.uploadDir, file.name));\n  });\n  form.on('error', function (err) {\n    console.log('An error has occured: \\n' + err);\n  });\n  form.on('end', function () {\n    res.end('success');\n  });\n  form.parse(req);\n});\n\nserver.listen(3000, function () {\n  console.log('server listen on port 3000');\n});\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZlci5qcyJdLCJuYW1lcyI6WyJzZXJ2ZXIiLCJ1c2UiLCJzdGF0aWMiLCJqb2luIiwiX19kaXJuYW1lIiwiZ2V0IiwicmVxIiwicmVzIiwiaHRtbCIsInJlYWRkaXIiLCJlcnIiLCJmaWxlcyIsImZvckVhY2giLCJmaWxlIiwiY29uc29sZSIsImxvZyIsInNlbmQiLCJwb3N0IiwiZm9ybSIsIkluY29taW5nRm9ybSIsIm11bHRpcGxlcyIsInVwbG9hZERpciIsIm9uIiwiZmllbGQiLCJyZW5hbWUiLCJwYXRoIiwibmFtZSIsImVuZCIsInBhcnNlIiwibGlzdGVuIl0sIm1hcHBpbmdzIjoiOztBQUFBOzs7O0FBQ0E7Ozs7QUFFQTs7OztBQUNBOzs7O0FBQ0E7Ozs7OztBQUVBLElBQU1BLFNBQVMsd0JBQWY7O0FBRUFBLE9BQU9DLEdBQVAsQ0FBVyxzQkFBTyxNQUFQLENBQVg7O0FBRUFELE9BQU9DLEdBQVAsQ0FBVyxrQkFBUUMsTUFBUixDQUFlLGVBQUtDLElBQUwsQ0FBVUMsU0FBVixFQUFxQixTQUFyQixDQUFmLENBQVg7O0FBRUFKLE9BQU9LLEdBQVAsQ0FBVyxHQUFYLEVBQWdCLFVBQUNDLEdBQUQsRUFBTUMsR0FBTixFQUFjO0FBQzVCLE1BQUlDLE9BQU8sK0RBQVg7QUFDQSxlQUFHQyxPQUFILENBQVcsZUFBS04sSUFBTCxDQUFVQyxTQUFWLEVBQXFCLFNBQXJCLENBQVgsRUFBNEMsVUFBQ00sR0FBRCxFQUFNQyxLQUFOLEVBQWdCO0FBQzFEQSxVQUFNQyxPQUFOLENBQWMsZ0JBQVE7QUFDcEJKLGdDQUF3QkssSUFBeEIsVUFBaUNBLElBQWpDO0FBQ0FDLGNBQVFDLEdBQVIsQ0FBWUYsSUFBWjtBQUNELEtBSEQ7QUFJQUwsWUFBUSxvQkFBUjtBQUNBRCxRQUFJUyxJQUFKLENBQVNSLElBQVQ7QUFDRCxHQVBEO0FBUUQsQ0FWRDs7QUFZQVIsT0FBT2lCLElBQVAsQ0FBWSxTQUFaLEVBQXVCLFVBQUNYLEdBQUQsRUFBTUMsR0FBTixFQUFjO0FBQ25DLE1BQU1XLE9BQU8sSUFBSSxxQkFBV0MsWUFBZixFQUFiO0FBQ0FELE9BQUtFLFNBQUwsR0FBaUIsSUFBakI7QUFDQUYsT0FBS0csU0FBTCxHQUFpQixlQUFLbEIsSUFBTCxDQUFVQyxTQUFWLEVBQXFCLFNBQXJCLENBQWpCO0FBQ0FjLE9BQUtJLEVBQUwsQ0FBUSxNQUFSLEVBQWdCLFVBQVNDLEtBQVQsRUFBZ0JWLElBQWhCLEVBQXNCO0FBQ3BDLGlCQUFHVyxNQUFILENBQVVYLEtBQUtZLElBQWYsRUFBcUIsZUFBS3RCLElBQUwsQ0FBVWUsS0FBS0csU0FBZixFQUEwQlIsS0FBS2EsSUFBL0IsQ0FBckI7QUFDRCxHQUZEO0FBR0FSLE9BQUtJLEVBQUwsQ0FBUSxPQUFSLEVBQWlCLFVBQVNaLEdBQVQsRUFBYztBQUM3QkksWUFBUUMsR0FBUixDQUFZLDZCQUE2QkwsR0FBekM7QUFDRCxHQUZEO0FBR0FRLE9BQUtJLEVBQUwsQ0FBUSxLQUFSLEVBQWUsWUFBVztBQUN4QmYsUUFBSW9CLEdBQUosQ0FBUSxTQUFSO0FBQ0QsR0FGRDtBQUdBVCxPQUFLVSxLQUFMLENBQVd0QixHQUFYO0FBQ0QsQ0FkRDs7QUFnQkFOLE9BQU82QixNQUFQLENBQWMsSUFBZCxFQUFvQixZQUFNO0FBQ3hCZixVQUFRQyxHQUFSLENBQVksNEJBQVo7QUFDRCxDQUZEIiwiZmlsZSI6InNlcnZlci5qcyIsInNvdXJjZVJvb3QiOiIvYXBwIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHBhdGggZnJvbSAncGF0aCdcbmltcG9ydCBmcyBmcm9tICdmcydcblxuaW1wb3J0IGV4cHJlc3MgZnJvbSAnZXhwcmVzcydcbmltcG9ydCBtb3JnYW4gZnJvbSAnbW9yZ2FuJ1xuaW1wb3J0IGZvcm1pZGFibGUgZnJvbSAnZm9ybWlkYWJsZSdcblxuY29uc3Qgc2VydmVyID0gZXhwcmVzcygpXG5cbnNlcnZlci51c2UobW9yZ2FuKCd0aW55JykpXG5cbnNlcnZlci51c2UoZXhwcmVzcy5zdGF0aWMocGF0aC5qb2luKF9fZGlybmFtZSwgJ3VwbG9hZHMnKSkpXG5cbnNlcnZlci5nZXQoJy8nLCAocmVxLCByZXMpID0+IHtcbiAgbGV0IGh0bWwgPSAnPCFET0NUWVBFIGh0bWw+PGh0bWw+PGhlYWQ+PC9oZWFkPjxib2R5PjxoMj4vdXBsb2FkczwvaDI+PHVsPidcbiAgZnMucmVhZGRpcihwYXRoLmpvaW4oX19kaXJuYW1lLCAndXBsb2FkcycpLCAoZXJyLCBmaWxlcykgPT4ge1xuICAgIGZpbGVzLmZvckVhY2goZmlsZSA9PiB7XG4gICAgICBodG1sICs9IGA8bGk+PGEgaHJlZj1cIiR7ZmlsZX1cIj4ke2ZpbGV9PC9saT5gXG4gICAgICBjb25zb2xlLmxvZyhmaWxlKVxuICAgIH0pXG4gICAgaHRtbCArPSAnPHVsPjwvYm9keT48L2h0bWw+J1xuICAgIHJlcy5zZW5kKGh0bWwpXG4gIH0pXG59KVxuXG5zZXJ2ZXIucG9zdCgnL3VwbG9hZCcsIChyZXEsIHJlcykgPT4ge1xuICBjb25zdCBmb3JtID0gbmV3IGZvcm1pZGFibGUuSW5jb21pbmdGb3JtKClcbiAgZm9ybS5tdWx0aXBsZXMgPSB0cnVlXG4gIGZvcm0udXBsb2FkRGlyID0gcGF0aC5qb2luKF9fZGlybmFtZSwgJ3VwbG9hZHMnKVxuICBmb3JtLm9uKCdmaWxlJywgZnVuY3Rpb24oZmllbGQsIGZpbGUpIHtcbiAgICBmcy5yZW5hbWUoZmlsZS5wYXRoLCBwYXRoLmpvaW4oZm9ybS51cGxvYWREaXIsIGZpbGUubmFtZSkpXG4gIH0pXG4gIGZvcm0ub24oJ2Vycm9yJywgZnVuY3Rpb24oZXJyKSB7XG4gICAgY29uc29sZS5sb2coJ0FuIGVycm9yIGhhcyBvY2N1cmVkOiBcXG4nICsgZXJyKVxuICB9KVxuICBmb3JtLm9uKCdlbmQnLCBmdW5jdGlvbigpIHtcbiAgICByZXMuZW5kKCdzdWNjZXNzJylcbiAgfSlcbiAgZm9ybS5wYXJzZShyZXEpXG59KVxuXG5zZXJ2ZXIubGlzdGVuKDMwMDAsICgpID0+IHtcbiAgY29uc29sZS5sb2coJ3NlcnZlciBsaXN0ZW4gb24gcG9ydCAzMDAwJylcbn0pIl19",
+    "ast": null,
+    "map": {
+      "version": 3,
+      "sources": [
+        "server.js"
+      ],
+      "names": [
+        "server",
+        "use",
+        "static",
+        "join",
+        "__dirname",
+        "get",
+        "req",
+        "res",
+        "html",
+        "readdir",
+        "err",
+        "files",
+        "forEach",
+        "file",
+        "console",
+        "log",
+        "send",
+        "post",
+        "form",
+        "IncomingForm",
+        "multiples",
+        "uploadDir",
+        "on",
+        "field",
+        "rename",
+        "path",
+        "name",
+        "end",
+        "parse",
+        "listen"
+      ],
+      "mappings": ";;AAAA;;;;AACA;;;;AAEA;;;;AACA;;;;AACA;;;;;;AAEA,IAAMA,SAAS,wBAAf;;AAEAA,OAAOC,GAAP,CAAW,sBAAO,MAAP,CAAX;;AAEAD,OAAOC,GAAP,CAAW,kBAAQC,MAAR,CAAe,eAAKC,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAf,CAAX;;AAEAJ,OAAOK,GAAP,CAAW,GAAX,EAAgB,UAACC,GAAD,EAAMC,GAAN,EAAc;AAC5B,MAAIC,OAAO,+DAAX;AACA,eAAGC,OAAH,CAAW,eAAKN,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAX,EAA4C,UAACM,GAAD,EAAMC,KAAN,EAAgB;AAC1DA,UAAMC,OAAN,CAAc,gBAAQ;AACpBJ,gCAAwBK,IAAxB,UAAiCA,IAAjC;AACAC,cAAQC,GAAR,CAAYF,IAAZ;AACD,KAHD;AAIAL,YAAQ,oBAAR;AACAD,QAAIS,IAAJ,CAASR,IAAT;AACD,GAPD;AAQD,CAVD;;AAYAR,OAAOiB,IAAP,CAAY,SAAZ,EAAuB,UAACX,GAAD,EAAMC,GAAN,EAAc;AACnC,MAAMW,OAAO,IAAI,qBAAWC,YAAf,EAAb;AACAD,OAAKE,SAAL,GAAiB,IAAjB;AACAF,OAAKG,SAAL,GAAiB,eAAKlB,IAAL,CAAUC,SAAV,EAAqB,SAArB,CAAjB;AACAc,OAAKI,EAAL,CAAQ,MAAR,EAAgB,UAASC,KAAT,EAAgBV,IAAhB,EAAsB;AACpC,iBAAGW,MAAH,CAAUX,KAAKY,IAAf,EAAqB,eAAKtB,IAAL,CAAUe,KAAKG,SAAf,EAA0BR,KAAKa,IAA/B,CAArB;AACD,GAFD;AAGAR,OAAKI,EAAL,CAAQ,OAAR,EAAiB,UAASZ,GAAT,EAAc;AAC7BI,YAAQC,GAAR,CAAY,6BAA6BL,GAAzC;AACD,GAFD;AAGAQ,OAAKI,EAAL,CAAQ,KAAR,EAAe,YAAW;AACxBf,QAAIoB,GAAJ,CAAQ,SAAR;AACD,GAFD;AAGAT,OAAKU,KAAL,CAAWtB,GAAX;AACD,CAdD;;AAgBAN,OAAO6B,MAAP,CAAc,IAAd,EAAoB,YAAM;AACxBf,UAAQC,GAAR,CAAY,4BAAZ;AACD,CAFD",
+      "file": "server.js",
+      "sourceRoot": "/app",
+      "sourcesContent": [
+        "import path from 'path'\nimport fs from 'fs'\n\nimport express from 'express'\nimport morgan from 'morgan'\nimport formidable from 'formidable'\n\nconst server = express()\n\nserver.use(morgan('tiny'))\n\nserver.use(express.static(path.join(__dirname, 'uploads')))\n\nserver.get('/', (req, res) => {\n  let html = '<!DOCTYPE html><html><head></head><body><h2>/uploads</h2><ul>'\n  fs.readdir(path.join(__dirname, 'uploads'), (err, files) => {\n    files.forEach(file => {\n      html += `<li><a href=\"${file}\">${file}</li>`\n      console.log(file)\n    })\n    html += '<ul></body></html>'\n    res.send(html)\n  })\n})\n\nserver.post('/upload', (req, res) => {\n  const form = new formidable.IncomingForm()\n  form.multiples = true\n  form.uploadDir = path.join(__dirname, 'uploads')\n  form.on('file', function(field, file) {\n    fs.rename(file.path, path.join(form.uploadDir, file.name))\n  })\n  form.on('error', function(err) {\n    console.log('An error has occured: \\n' + err)\n  })\n  form.on('end', function() {\n    res.end('success')\n  })\n  form.parse(req)\n})\n\nserver.listen(3000, () => {\n  console.log('server listen on port 3000')\n})"
+      ]
+    },
+    "mtime": 1588198655000
+  }
+}
